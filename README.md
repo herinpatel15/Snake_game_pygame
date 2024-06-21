@@ -1,1 +1,1 @@
-## entry point is mqain.py
+## entry point is main.py
